@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raaajrathod
 - 👀 I’m interested in Frontend, Football, Fries and Tech!
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently pursuing Master's in Computer Forensics and Cybersecurity. 
 - 💞️ I’m looking for Work in London. 
 - 📫 How to reach me https://raaajrathod.com (Beta Website)
 
